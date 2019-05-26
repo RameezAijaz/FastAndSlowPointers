@@ -1,4 +1,4 @@
-package com.practice.fastAndSlowPointers;
+package com.practice.FastAndSlowPointers;
 
 public class LengthOfCycleInLinkedList {
 
